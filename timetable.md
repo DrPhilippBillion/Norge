@@ -1,4 +1,4 @@
-|    |     |            | Morgens            | Abends             | km |Kosten  |
+|    |     |            | Morgens            | Abends             | km |Kosten  |Tour|
 | -- | --- | ---------- | ------------------ | ------------------ | ------- | ------- |
 | 12 | Aug | Freitag    | Heim               | Hotel Flensburg         | 653 km, 6h37min  | 190 €   |
 | 13 | Aug | Samstag    | Flensburg            | Fähre auf dem Meer |360 km, 3h20| 1.454 € |
