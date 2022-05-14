@@ -3,7 +3,7 @@
 | 12 | Aug | Freitag    | Heim               | Hotel Flensburg         | 653 km, 6h37min  | 190 €   ||
 | 13 | Aug | Samstag    | Flensburg            | Fähre auf dem Meer |360 km, 3h20| 1.454 € ||
 | 14 | Aug | Sonntag    | Fähre auf dem Meer | Vangsnes | 180 km, 3h|   ||
-| 15 | Aug | Montag     | Solvang            | Dovrefjäll         |   320 km, 5h30 min|      ||
+| 15 | Aug | Montag     | Vangsnes         | Dovrefjäll         |   320 km, 5h30 min|      |Tour: WiN No. 19, 8km, 3h30, 400m|
 | 16 | Aug | Dienstag   |   Dovrefjäll       | Dovrefjäll         | | 678,93€   ||
 | 17 | Aug | Mittwoch   |                    | Dovrefjäll         |   |      ||
 | 18 | Aug | Donnerstag |          |   Dovrefjäll                 | ||
