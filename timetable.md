@@ -4,7 +4,7 @@
 | 13 | Aug | Samstag    | Flensburg            | Fähre auf dem Meer |360 km, 3h20| 1.454 € ||
 | 14 | Aug | Sonntag    | Fähre auf dem Meer | Vangsnes | 180 km, 3h|   ||
 | 15 | Aug | Montag     | Vangsnes         | Dovrefjäll         |   320 km, 5h30 min|      |Tour: WiN No. 19, 8km, 3h30, 400m|
-| 16 | Aug | Dienstag   |   Dovrefjäll       | Dovrefjäll         | | 678,93€   ||
+| 16 | Aug | Dienstag   |   Dovrefjäll       | Dovrefjäll         | | 679€||
 | 17 | Aug | Mittwoch   |                    | Dovrefjäll         |   |      ||
 | 18 | Aug | Donnerstag |          |   Dovrefjäll                 | ||
 | 19 | Aug | Freitag    |                    | Dovrefjäll         |   |      ||
@@ -17,6 +17,6 @@
 | 26 | Aug | Freitag    |                    | Fjord              |    |     ||
 | 27 | Aug | Samstag    |                    | Fjord              |     |    ||
 | 28 | Aug | Sonntag    |                    | Fjord              |         ||
-| 29 | Aug | Montag     |                    | Bergen             | 350 km, 6h |167,80 €    ||
+| 29 | Aug | Montag     |                    | Bergen             | 350 km, 6h |168€    ||
 | 30 | Aug | Dienstag   |                    | Fähre auf dem Meer |      |   ||
 | 31 | Aug | Mittwoch   |                    | Heim               |  1004 km, 9h3p    |   ||
