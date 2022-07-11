@@ -8,5 +8,7 @@ Buchweizen-Chili: 0.5 kg Buchweizen; 1 Glas Mais; 2 Dosen Chili-Bohnen; 1 Packun
 
 Gebratene Kluski: 1 kg Mehl; 5 Große Kartoffeln; 3 Eier; Quark (vor Ort kaufen); Schnittlauch, Zwiebeln, Schmand (vor Ort kaufen)
 
+Pizza: 1 kg Mehl; Trockenhefe; Tomatensauce (1l); Käse (vor Ort); Mais im Glas; Paprika (vor Ort); Champignons aus dem Glas
+
 BASISSACHEN:
-Olivenöl; Bratöl: je eine Flasche
+Olivenöl; Trockenhefe; Bratöl: je eine Flasche
