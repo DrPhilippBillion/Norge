@@ -10,5 +10,12 @@ Gebratene Kluski: 1 kg Mehl; 5 Große Kartoffeln; 3 Eier; Quark (vor Ort kaufen)
 
 Pizza: 1 kg Mehl; Trockenhefe; Tomatensauce (1l); Käse (vor Ort); Mais im Glas; Paprika (vor Ort); Champignons aus dem Glas
 
+| Nr. | Anzahl | Bezeichnung | Bestandteil | Menge | mitnehmen | vor-Ort-Kauf | Bemerkungen |
+| --- | ------ | ----------- | ----------- | ----- | --------- | ------------ | ----------- |
+
+
+
+
+
 BASISSACHEN:
 Olivenöl; Trockenhefe; Bratöl: je eine Flasche
