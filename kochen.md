@@ -1,8 +1,5 @@
 12x kochen
 
-2x Milchreis: je 1kg reis, 4l milch, zucker, zimt
-
-Pfannkuchen: 1 kg Mehl; 4 Eier; 1 l Milch; 1 Glas Konfitüre
 
 Buchweizen-Chili: 0.5 kg Buchweizen; 1 Glas Mais; 2 Dosen Chili-Bohnen; 1 Packung Soja-Geschnetzeltes; 2 l Tomatenpassata; 4 Möhren (vor Ort kaufen); gewürzmischung vorbereiten und im kleinen Schraubglas mitbringen
 
@@ -16,7 +13,10 @@ Pizza: 1 kg Mehl; Trockenhefe; Tomatensauce (1l); Käse (vor Ort); Mais im Glas;
 |  |  |  | Milch | 4 l | X |  |  |
 |  |  |  | Zucker | P | X |  |  |
 |  |  |  | Zimt | P | X |  |  |
-
+| 2 | 2 | Pfannkuchen | Mehl | 2 kg | X |  |  |
+|  |  | Pfannkuchen | Milch | 2 l | X |  |  |
+|  |  | Pfannkuchen | Eier | 8 | X |  |  |
+|  |  | Pfannkuchen | Konfitüre | 2 Glas | X |  | welche Früchte? |
 
 
 
