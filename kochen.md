@@ -1,7 +1,5 @@
 12x kochen
 
-Pizza: 1 kg Mehl; Trockenhefe; Tomatensauce (1l); Käse (vor Ort); Mais im Glas; Paprika (vor Ort); Champignons aus dem Glas
-
 | Nr. | Anzahl | Bezeichnung | Bestandteil | Menge | mitnehmen | vor-Ort-Kauf | Bemerkungen |
 | --- | ------ | ----------- | ----------- | ----- | --------- | ------------ | ----------- |
 | 1 | 2 | Milchreis | Reis | 1 kg | X |  |  |
@@ -37,4 +35,4 @@ Pizza: 1 kg Mehl; Trockenhefe; Tomatensauce (1l); Käse (vor Ort); Mais im Glas;
 
 
 BASISSACHEN:
-Olivenöl; Trockenhefe; Bratöl: je eine Flasche
+Olivenöl; Bratöl: je eine Flasche
