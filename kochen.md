@@ -1,10 +1,5 @@
 12x kochen
 
-
-
-
-Gebratene Kluski: 1 kg Mehl; 5 Große Kartoffeln; 3 Eier; Quark (vor Ort kaufen); Schnittlauch, Zwiebeln, Schmand (vor Ort kaufen)
-
 Pizza: 1 kg Mehl; Trockenhefe; Tomatensauce (1l); Käse (vor Ort); Mais im Glas; Paprika (vor Ort); Champignons aus dem Glas
 
 | Nr. | Anzahl | Bezeichnung | Bestandteil | Menge | mitnehmen | vor-Ort-Kauf | Bemerkungen |
@@ -29,10 +24,16 @@ Pizza: 1 kg Mehl; Trockenhefe; Tomatensauce (1l); Käse (vor Ort); Mais im Glas;
 |  |  |  | Kartoffeln | 3 kg | X |  | am besten große Kartoffeln |
 |  |  |  | Eier | 6 | X |  |  |
 |  |  |  | Quark | 1 kg |  | X | Gibt es in Norwegen Quark? |
-|  |  |  | Schmand | 1 l |  | X | Gibt es in Norwegen Quark? |
+|  |  |  | Schmand | 1 l |  | X |  |
 |  |  |  | Schnittlauch | 1 Bund |  | X |  |
 |  |  |  | Zwiebeln | 3 |  | X |  |
-
+| 5 | 2 | Pizza | Mehl | 2 kg | X |  |  |
+|  |  |  | Zuckermais | 1 Glas | X |  |  |
+|  |  |  | Trockenhefe | 2 Päckchen | X |  |  |
+|  |  |  | Tomatenpassata | 2 l | X |  |  |
+|  |  |  | Käse | 1 kg |  | X |  |
+|  |  |  | Paprika | 6 Stück |  | X |  |
+|  |  |  | Champignons | 2 Gläser | X |  |  |
 
 
 BASISSACHEN:
