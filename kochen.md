@@ -1,7 +1,7 @@
 12x kochen
 
 
-Buchweizen-Chili: 0.5 kg Buchweizen; 1 Glas Mais; 2 Dosen Chili-Bohnen; 1 Packung Soja-Geschnetzeltes; 2 l Tomatenpassata; 4 Möhren (vor Ort kaufen); gewürzmischung vorbereiten und im kleinen Schraubglas mitbringen
+
 
 Gebratene Kluski: 1 kg Mehl; 5 Große Kartoffeln; 3 Eier; Quark (vor Ort kaufen); Schnittlauch, Zwiebeln, Schmand (vor Ort kaufen)
 
@@ -14,10 +14,24 @@ Pizza: 1 kg Mehl; Trockenhefe; Tomatensauce (1l); Käse (vor Ort); Mais im Glas;
 |  |  |  | Zucker | P | X |  |  |
 |  |  |  | Zimt | P | X |  |  |
 | 2 | 2 | Pfannkuchen | Mehl | 2 kg | X |  |  |
-|  |  | Pfannkuchen | Milch | 2 l | X |  |  |
-|  |  | Pfannkuchen | Eier | 8 | X |  |  |
-|  |  | Pfannkuchen | Konfitüre | 2 Glas | X |  | welche Früchte? |
-
+|  |  |  | Milch | 2 l | X |  |  |
+|  |  |  | Eier | 8 | X |  |  |
+|  |  |  | Konfitüre | 2 Glas | X |  | welche Früchte? |
+| 3 | 2 | Buchweizen-Chili | Buchweizen | 1 kg | X |  |  |
+|  |  |  | Zuckermais | 1 Glas | X |  |  |
+|  |  |  | Chilibohnen | 2 Dosen | X |  |  |
+|  |  |  | Soja-Geschnetzeltes | 150 g | X |  |  |
+|  |  |  | Tomatenpassata | 4 l | X |  |  |
+|  |  |  | Möhren | 8 |  | X |  |
+|  |  |  | Zwiebeln | 3 |  | X |  |
+|  |  |  | Gewürzmischung |  | X | | zu Hause vorbereiten und im Schraubgläschen mitnehmen |
+| 4 | 2 | Gebratene Kluski | Mehl | 2 kg | X |  | eine Reibe mitnehmen! |
+|  |  |  | Kartoffeln | 3 kg | X |  | am besten große Kartoffeln |
+|  |  |  | Eier | 6 | X |  |  |
+|  |  |  | Quark | 1 kg |  | X | Gibt es in Norwegen Quark? |
+|  |  |  | Schmand | 1 l |  | X | Gibt es in Norwegen Quark? |
+|  |  |  | Schnittlauch | 1 Bund |  | X |  |
+|  |  |  | Zwiebeln | 3 |  | X |  |
 
 
 
