@@ -12,6 +12,7 @@ Pizza: 1 kg Mehl; Trockenhefe; Tomatensauce (1l); Käse (vor Ort); Mais im Glas;
 
 | Nr. | Anzahl | Bezeichnung | Bestandteil | Menge | mitnehmen | vor-Ort-Kauf | Bemerkungen |
 | --- | ------ | ----------- | ----------- | ----- | --------- | ------------ | ----------- |
+| 1 | 2 | Milchreis | Reis | 1 kg | X |  |  |
 
 
 
